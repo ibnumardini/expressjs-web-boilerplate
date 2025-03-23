@@ -1,0 +1,342 @@
+[
+  {
+    "language": "English",
+    "hello": "Welcome!",
+    "country_code": "GB"
+  },
+  {
+    "language": "Afrikaans",
+    "hello": "hallo",
+    "country_code": "ZA"
+  },
+  {
+    "language": "Albanian",
+    "hello": "Përshëndetje",
+    "country_code": "AL"
+  },
+  {
+    "language": "Amharic",
+    "hello": "ሰላም",
+    "country_code": "ET"
+  },
+  {
+    "language": "Arabic",
+    "hello": "مرحبا",
+    "country_code": "SA"
+  },
+  {
+    "language": "Armenian",
+    "hello": "Բարեւ",
+    "country_code": "AM"
+  },
+  {
+    "language": "Azerbaijani",
+    "hello": "Salam",
+    "country_code": "AZ"
+  },
+  {
+    "language": "Basque",
+    "hello": "Kaixo",
+    "country_code": "ES"
+  },
+  {
+    "language": "Belarusian",
+    "hello": "добры дзень",
+    "country_code": "BY"
+  },
+  {
+    "language": "Bengali",
+    "hello": "হ্যালো",
+    "country_code": "BD"
+  },
+  {
+    "language": "Bosnian",
+    "hello": "zdravo",
+    "country_code": "BA"
+  },
+  {
+    "language": "Bulgarian",
+    "hello": "Здравейте",
+    "country_code": "BG"
+  },
+  {
+    "language": "Catalan",
+    "hello": "Hola",
+    "country_code": "ES"
+  },
+  {
+    "language": "Cebuano",
+    "hello": "Hello",
+    "country_code": "PH"
+  },
+  {
+    "language": "Chichewa",
+    "hello": "Moni",
+    "country_code": "MW"
+  },
+  {
+    "language": "Chinese (Simplified)",
+    "hello": "您好",
+    "country_code": "CN"
+  },
+  {
+    "language": "Chinese (Traditional)",
+    "hello": "您好",
+    "country_code": "TW"
+  },
+  {
+    "language": "Corsican",
+    "hello": "Bonghjornu",
+    "country_code": "FR"
+  },
+  {
+    "language": "Croatian",
+    "hello": "zdravo",
+    "country_code": "HR"
+  },
+  {
+    "language": "Czech",
+    "hello": "Ahoj",
+    "country_code": "CZ"
+  },
+  {
+    "language": "Danish",
+    "hello": "Hej",
+    "country_code": "DK"
+  },
+  {
+    "language": "Dutch",
+    "hello": "Hallo",
+    "country_code": "NL"
+  },
+  {
+    "language": "English",
+    "hello": "Hello",
+    "country_code": "US"
+  },
+  {
+    "language": "Esperanto",
+    "hello": "Saluton",
+    "country_code": "EO"
+  },
+  {
+    "language": "Estonian",
+    "hello": "Tere",
+    "country_code": "EE"
+  },
+  {
+    "language": "Filipino",
+    "hello": "Kumusta",
+    "country_code": "PH"
+  },
+  {
+    "language": "Finnish",
+    "hello": "Hei",
+    "country_code": "FI"
+  },
+  {
+    "language": "French",
+    "hello": "Bonjour",
+    "country_code": "FR"
+  },
+  {
+    "language": "Georgian",
+    "hello": "გამარჯობა",
+    "country_code": "GE"
+  },
+  {
+    "language": "German",
+    "hello": "Hallo",
+    "country_code": "DE"
+  },
+  {
+    "language": "Greek",
+    "hello": "Γεια σας",
+    "country_code": "GR"
+  },
+  {
+    "language": "Hebrew",
+    "hello": "שלום",
+    "country_code": "IL"
+  },
+  {
+    "language": "Hindi",
+    "hello": "नमस्ते",
+    "country_code": "IN"
+  },
+  {
+    "language": "Hungarian",
+    "hello": "Helló",
+    "country_code": "HU"
+  },
+  {
+    "language": "Icelandic",
+    "hello": "Halló",
+    "country_code": "IS"
+  },
+  {
+    "language": "Indonesian",
+    "hello": "Halo",
+    "country_code": "ID"
+  },
+  {
+    "language": "Irish",
+    "hello": "Dia duit",
+    "country_code": "IE"
+  },
+  {
+    "language": "Italian",
+    "hello": "Ciao",
+    "country_code": "IT"
+  },
+  {
+    "language": "Japanese",
+    "hello": "こんにちは",
+    "country_code": "JP"
+  },
+  {
+    "language": "Javanese",
+    "hello": "Hello",
+    "country_code": "ID"
+  },
+  {
+    "language": "Kazakh",
+    "hello": "Сәлем",
+    "country_code": "KZ"
+  },
+  {
+    "language": "Korean",
+    "hello": "안녕하세요.",
+    "country_code": "KR"
+  },
+  {
+    "language": "Lao",
+    "hello": "ສະບາຍດີ",
+    "country_code": "LA"
+  },
+  {
+    "language": "Latvian",
+    "hello": "Labdien!",
+    "country_code": "LV"
+  },
+  {
+    "language": "Lithuanian",
+    "hello": "Sveiki",
+    "country_code": "LT"
+  },
+  {
+    "language": "Macedonian",
+    "hello": "Здраво",
+    "country_code": "MK"
+  },
+  {
+    "language": "Malay",
+    "hello": "Hello",
+    "country_code": "MY"
+  },
+  {
+    "language": "Malayalam",
+    "hello": "ഹലോ",
+    "country_code": "IN"
+  },
+  {
+    "language": "Maltese",
+    "hello": "Hello",
+    "country_code": "MT"
+  },
+  {
+    "language": "Maori",
+    "hello": "Hiha",
+    "country_code": "NZ"
+  },
+  {
+    "language": "Mongolian",
+    "hello": "Сайн байна уу",
+    "country_code": "MN"
+  },
+  {
+    "language": "Nepali",
+    "hello": "नमस्ते",
+    "country_code": "NP"
+  },
+  {
+    "language": "Norwegian",
+    "hello": "Hallo",
+    "country_code": "NO"
+  },
+  {
+    "language": "Polish",
+    "hello": "Cześć",
+    "country_code": "PL"
+  },
+  {
+    "language": "Portuguese",
+    "hello": "Olá",
+    "country_code": "PT"
+  },
+  {
+    "language": "Romanian",
+    "hello": "Alo",
+    "country_code": "RO"
+  },
+  {
+    "language": "Russian",
+    "hello": "привет",
+    "country_code": "RU"
+  },
+  {
+    "language": "Spanish",
+    "hello": "Hola",
+    "country_code": "ES"
+  },
+  {
+    "language": "Swahili",
+    "hello": "Sawa",
+    "country_code": "KE"
+  },
+  {
+    "language": "Swedish",
+    "hello": "Hallå",
+    "country_code": "SE"
+  },
+  {
+    "language": "Tamil",
+    "hello": "ஹலோ",
+    "country_code": "IN"
+  },
+  {
+    "language": "Thai",
+    "hello": "สวัสดี",
+    "country_code": "TH"
+  },
+  {
+    "language": "Turkish",
+    "hello": "Merhaba",
+    "country_code": "TR"
+  },
+  {
+    "language": "Ukrainian",
+    "hello": "Здрастуйте",
+    "country_code": "UA"
+  },
+  {
+    "language": "Urdu",
+    "hello": "ہیلو",
+    "country_code": "PK"
+  },
+  {
+    "language": "Vietnamese",
+    "hello": "Xin chào",
+    "country_code": "VN"
+  },
+  {
+    "language": "Welsh",
+    "hello": "Helo",
+    "country_code": "GB"
+  },
+  {
+    "language": "Zulu",
+    "hello": "Sawubona",
+    "country_code": "ZA"
+  }
+]
