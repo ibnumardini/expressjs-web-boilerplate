@@ -21,7 +21,7 @@ app.use(middlewares);
 
 app.use('/web', routes);
 
-app.get('/', (req, res) => res.redirect('/v2'));
+app.get('/', (req, res) => res.redirect('/web/hello'));
 app.use((req, res) => res.status(404).send('404 - Page Not Found'));
 
 app.listen(env.port, () =>
